@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hudgtufg
-- 👀 I’m interested in programming and coding
-- 🌱 I’m currently learning Information technology
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning How to be great
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me ...
 
